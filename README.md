@@ -49,9 +49,9 @@ admin.site.register(Author)
 admin.site.register(Book)
 ```
 ## OUTPUT 
-![alt text](<WhatsApp Image 2024-04-05 at 12.03.27 PM.jpeg>) 
-![alt text](<WhatsApp Image 2024-04-05 at 12.03.27 PM (1).jpeg>)
 ![alt text](<WhatsApp Image 2024-04-05 at 12.03.28 PM.jpeg>)
 ![alt text](<WhatsApp Image 2024-04-05 at 12.03.28 PM (1).jpeg>)
+![alt text](<WhatsApp Image 2024-04-05 at 12.03.27 PM.jpeg>) 
+![alt text](<WhatsApp Image 2024-04-05 at 12.03.27 PM (1).jpeg>)
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
